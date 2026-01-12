@@ -26,12 +26,10 @@ This project implements a deep learning image classifier using a custom ResNet-i
 ```bash
 pip install -r requirements.txt
 
-## Trainning
+## Training
 '''bash
 python src/train.py
 
 ## Evaluation
 '''bash
 python src/evaluate.py
-
-
